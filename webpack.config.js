@@ -1,5 +1,5 @@
 const config = {
-    entry:"./public/index.js",
+    entry:"./public/assets/js/index.js",
     output: {
         path:__dirname + "public/dist",
         filename:"bundle.js"
