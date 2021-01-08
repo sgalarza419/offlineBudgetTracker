@@ -5,6 +5,8 @@ const FILES_TO_CACHE = [
     "assets/images/icons/icon-512x512.png",
     "assets/js/index.js",
     "/index.html",
+    "../models/transaction.js",
+    "../routes/api.js"
 ];
 
 const CACHE_NAME = "static-cache-v2";
