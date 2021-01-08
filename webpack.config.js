@@ -1,9 +1,9 @@
 const config = {
-    entry:"",
+    entry:"./public/index.js",
     output: {
-        path:"",
-        filename:""
+        path:__dirname + "public/dist",
+        filename:"bundle.js"
     },
-    mode:""
+    mode:"development"
 };
 module.exports = config;
