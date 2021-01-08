@@ -4,6 +4,7 @@ const FILES_TO_CACHE = [
     "assets/images/icons/icon-192x192.png",
     "assets/images/icons/icon-512x512.png",
     "assets/js/index.js",
+    "assets/js/db.js",
     "/index.html",
     "../models/transaction.js",
     "../routes/api.js"
